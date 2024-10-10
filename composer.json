@@ -1,0 +1,14 @@
+{
+    "name": "sena/mvc_2696521",
+    "authors": [
+        {
+            "name": "Laura Daniela Lopez Jimenez",
+            "email": "lauralopezjimenez12@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sena\\": "app/"
+        }
+    }
+}
